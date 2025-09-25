@@ -1,1 +1,1 @@
-# picures
+# pictures
